@@ -1,0 +1,6 @@
+{
+  "name": "Spider-Man: NYC Web-Slinger 3D",
+  "description": "An open-world 3D Spider-Man game featuring realistic pendulum web-swinging physics, wall-running, dive-bombing, and iconic New York City landmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
